@@ -1,0 +1,36 @@
+.age-calculator {
+    text-align: center;
+    margin: 50px;
+  }
+  
+  h1 {
+    font-size: 24px;
+  }
+  
+  p {
+    font-size: 14px;
+  }
+  
+  input {
+    font-size: 16px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .calculate-button {
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin-top: 10px;
+    cursor: pointer;
+  }
+  
+  .calculate-button:hover {
+    background-color: #0073e6;
+  }
+  
+  h4 {
+    font-size: 18px;
+  }
